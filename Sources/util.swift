@@ -7,6 +7,6 @@
 
 import Foundation
 
-func Add() {
+public func Add() {
     
 }
